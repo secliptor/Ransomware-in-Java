@@ -1,8 +1,9 @@
 # Pre Requisits:
 ### Downloads:
-1. Download Lauch4j and make sure that it is in this location `C:\Program Files (x86)\Launch4j`
-2. Make account on DropBox and get Acess token from there
-3. Make a folder as `SecuritySimulation`in `C` drive to encrypt (This is the test folder to encrypt, If you want any other location you can make changes in `Ransom/Main.java` file)
+1. Make sure java is installed on your system 
+2. Download Lauch4j and make sure that it is in this location `C:\Program Files (x86)\Launch4j`
+3. Make account on DropBox and get Acess token from there
+4. Make a folder as `SecuritySimulation`in `C` drive to encrypt (This is the test folder to encrypt, If you want any other location you can make changes in `Ransom/Main.java` file)
 
 
 ### Set CMD as the Default Shell: 
